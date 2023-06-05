@@ -40,7 +40,7 @@ While there are some other stacking strategies out there, a majority of sprints 
 
 ## Dependencies and How to Run 
 
-Once you've downloaded the files first make sure you have the correct package versions. To do so open up the command prompt and move the **'server'** directory, then run the command **'pip install -r requirements.txt'** and wait for all of the packages to finish installing. Then you should be able to run the command 'python server.py' which will start running the local flask server for you. After that you can use a service like postman to return the output of their classified sprint and a repaly you can watch as well, as seen in the screenshot below. You can find a list of the of players to try this out on here https://ch.tetr.io/players/
+Once you've downloaded the files first make sure you have the correct package versions. To do so open up the command prompt and move the **'server'** directory, then run the command **'pip install -r requirements.txt'** and wait for all of the packages to finish installing. Then you should be able to run the command 'python server.py' which will start running the local flask server for you. After that you can use a service like postman to return the output of their classified sprint and a replay you can watch as well, as seen in the screenshot below. You can find a list of the of players to try this out on here https://ch.tetr.io/players/
 
 ![Retrieving the classification and replay of my stacking](postman.png)
 
