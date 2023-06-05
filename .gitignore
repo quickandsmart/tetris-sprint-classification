@@ -1,0 +1,6 @@
+server/__pycache__/**
+
+.idea/**
+
+Model/.ipynb_checkpoints/**
+.ipynb_checkpoints/**
