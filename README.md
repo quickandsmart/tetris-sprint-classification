@@ -34,6 +34,8 @@ The last stacking strategy you'll see is known as Looping or Loops. While there 
     <img src="/Stacking Replays/Loop.gif" width="300">
     <div> Credits to fortissim2 for this replay</div>
 </div>
+
+
 While there are some other stacking strategies out there, a majority of sprints can be classified into these styles, or a mixture of multiple of these styles in one run. 
 
 ## Dependencies and How to Run 
