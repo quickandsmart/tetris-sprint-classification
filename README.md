@@ -1,4 +1,4 @@
-# Tetr.io Sprint Stacking Classification
+# Tetris Sprint Stacking Classification
 
 ## Project Description
 
